@@ -7,16 +7,16 @@ Confira abaixo a qualidade e a entonação das vozes disponíveis utilizando o m
 
 |        |     |
 | ---    | --- |
-| **M1** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M1.wav"></audio>
-| **M2** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M2.wav"></audio>
-| **M3** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M3.wav"></audio>
-| **M4** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M4.wav"></audio>
-| **M5** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M5.wav"></audio>
-| **F1** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F1.wav"></audio>
-| **F2** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F2.wav"></audio>
-| **F3** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F3.wav"></audio>
-| **F4** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F4.wav"></audio>
-| **F5** | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F5.wav"></audio>
+| **M1** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M1.wav)
+| **M2** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M2.wav)
+| **M3** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M3.wav)
+| **M4** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M4.wav)
+| **M5** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M5.wav)
+| **F1** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F1.wav)
+| **F2** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F2.wav)
+| **F3** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F3.wav)
+| **F4** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F4.wav)
+| **F5** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F5.wav)
 
 
 ## Compilação & Instalação
