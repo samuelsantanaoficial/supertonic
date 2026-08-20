@@ -1,6 +1,24 @@
 # SUPERTONIC TTS
 Inspirado em https://github.com/supertone-inc/supertonic
 
+## Amostras de Voz (PT-BR)
+
+Confira abaixo a qualidade e a entonação das vozes disponíveis utilizando o mesmo texto de teste.
+
+| ID da Voz | Gênero | Amostra de Áudio |
+| :--- | :--- | :--- |
+| **M1** | Masculino 1 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M1.wav"></audio> |
+| **M2** | Masculino 2 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M2.wav"></audio> |
+| **M3** | Masculino 3 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M3.wav"></audio> |
+| **M4** | Masculino 4 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M4.wav"></audio> |
+| **M5** | Masculino 5 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M5.wav"></audio> |
+| **F1** | Feminino 1 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F1.wav"></audio> |
+| **F2** | Feminino 2 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F2.wav"></audio> |
+| **F3** | Feminino 3 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F3.wav"></audio> |
+| **F4** | Feminino 4 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F4.wav"></audio> |
+| **F5** | Feminino 5 | <audio controls src="https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F5.wav"></audio> |
+
+
 ## Compilação & Instalação
 
 ### Instale as dependências
