@@ -519,6 +519,7 @@ where
     Ok(result)
 }
 
+#[allow(dead_code)]
 pub fn sanitize_filename(text: &str, max_len: usize) -> String {
     // Take first max_len characters (Unicode code points, not bytes)
     text.chars()
@@ -734,6 +735,7 @@ impl TextToSpeech {
         Ok((wav_cat, dur_cat))
     }
 
+    #[allow(dead_code)]
     pub fn batch(
         &mut self,
         text_list: &[String],
