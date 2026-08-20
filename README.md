@@ -20,7 +20,7 @@ mkdir -p ~/.local/share/supertonic
 cp assets ~/.local/share/supertonic/
 ```
 ```bash
-cp target/release/supertonic ~/.local/bin/
+cp target/release/supertonic ~/usar/local/bin/
 ```
 
 ## Como usar
