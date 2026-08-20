@@ -1,4 +1,5 @@
 # SUPERTONIC TTS
+Inspirado em https://github.com/supertone-inc/supertonic
 
 ## Compilação & Instalação
 
