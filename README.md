@@ -26,7 +26,7 @@ cp target/release/supertonic ~/.local/bin/
 ## Como usar
 
 ```bash
-supertonic "Insira o seu texto aqui. Use gramática do Brasil para o modelo fixar o sotaque brasileiro." dito.wav
+supertonic "Insira o seu texto aqui. Use gramática do Brasil para o modelo fixar o sotaque brasileiro." teste.wav
 ```
 ```bash
 supertonic -f roteiro.txt narracao.wav
@@ -42,7 +42,8 @@ Using CPU for inference
 
 Gerando áudio (Voz: M1, Idioma: pt)
 Processando TTS...
-⠒ [========================================] 8/8 (2s)                                                                                                                                                                                         -> Processando TTS completed in 2.68 sec
+⠒ [========================================] 8/8 (2s)
+  -> Processando TTS completed in 2.68 sec
 
 Salvo com sucesso em: saida.wav
 ```
