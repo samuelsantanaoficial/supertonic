@@ -2,9 +2,16 @@
 
 ## Compilação & Instalação
 
+### Instale as dependências
 ```bash
-sudo pacman -S git git-lfs rust git lfs install
+sudo pacman -S git git-lfs rust
 ```
+```bash
+git lfs install
+```
+
+### Clone o repositório e compile
+> Se for no **Termux+proot** faça tudo na home `cd ~`
 ```bash
 git clone https://github.com/samuelsantanaoficial/supertonic.git
 cd supertonic
@@ -12,15 +19,24 @@ cd supertonic
 ```bash
 cargo build --release
 ```
+
+### Clone os pesos (VOZES) e copie para um local seguro.
 ```bash
 git clone https://huggingface.co/Supertone/supertonic-3 assets
 ```
 ```bash
 mkdir -p ~/.local/share/supertonic
-cp assets ~/.local/share/supertonic/
+cp -r assets ~/.local/share/supertonic/
 ```
+
+#### Copie o binario para um local onde você possa chamar de qualquer lugar.
+- Desktop (usuário normal, precisa de sudo):
 ```bash
-cp target/release/supertonic ~/usr/local/bin/
+sudo cp target/release/supertonic /usr/local/bin/
+```
+- Termux+proot como root (sem sudo):
+```bash
+cp target/release/supertonic /usr/local/bin/
 ```
 
 ## Como usar
