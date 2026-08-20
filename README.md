@@ -5,18 +5,16 @@ Inspirado em https://github.com/supertone-inc/supertonic
 
 Confira abaixo a qualidade e a entonação das vozes disponíveis utilizando o mesmo texto de teste.
 
-|        |     |
-| ---    | --- |
-| **M1** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M1.wav)
-| **M2** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M2.wav)
-| **M3** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M3.wav)
-| **M4** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M4.wav)
-| **M5** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M5.wav)
-| **F1** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F1.wav)
-| **F2** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F2.wav)
-| **F3** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F3.wav)
-| **F4** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F4.wav)
-| **F5** | [Ouvir exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F5.wav)
+ - [`M1` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M1.wav)
+ - [`M2` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M2.wav)
+ - [`M3` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M3.wav)
+ - [`M4` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M4.wav)
+ - [`M5` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/M5.wav)
+ - [`F1` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F1.wav)
+ - [`F2` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F2.wav)
+ - [`F3` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F3.wav)
+ - [`F4` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F4.wav)
+ - [`F5` exemplo](https://raw.githubusercontent.com/samuelsantanaoficial/supertonic/main/examples/F5.wav)
 
 
 ## Compilação & Instalação
